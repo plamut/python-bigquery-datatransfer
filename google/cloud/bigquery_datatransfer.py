@@ -23,7 +23,7 @@ from google.cloud.bigquery_datatransfer_v1 import types
 
 
 __all__ = (
-    "enums",
-    "types",
-    "DataTransferServiceClient",
+    'enums',
+    'types',
+    'DataTransferServiceClient',
 )
